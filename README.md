@@ -1,5 +1,6 @@
 # TicTacToe
-Code for TicTacToe in Processing
+Code for TicTacToe in Processing.
+Source code in .pde file.
 
 How to start the game:
 1. Download the .zip file.
