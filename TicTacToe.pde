@@ -222,4 +222,8 @@ void keyPressed() {
       reset();
     }
   }
+  
+  if (key == 's' || key == 'S') {
+    saveFrame("screenshot-###.jpg");
+  }
 }
